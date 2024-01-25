@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:wght@400;500;700&display=swap');
 
-
-
-
-
 :root {
 	--accent-color: #ef5a3c;
 	--text-color: #8f8f8f;
@@ -30,8 +26,8 @@ p {
 	flex-direction: column;
 	align-items: center;
 	background-color: #fff;
-    border-radius: 24px;
-    border: 1px solid var(--text-color);
+	border-radius: 24px;
+	border: 1px solid var(--text-color);
 }
 
 h1 {
@@ -43,14 +39,17 @@ h1 {
 	margin: 128px 16px;
 	margin-bottom: 0;
 }
+
 .orange {
 	color: var(--accent-color);
 }
+
 .cover p {
 	text-align: center;
 	max-width: 550px;
 	margin: 16px;
 }
+
 .cover button {
 	width: 160px;
 	background-color: #000;
@@ -61,6 +60,7 @@ h1 {
 	font-weight: 470;
 	margin: 16px 0;
 }
+
 .text-medium {
 	font-size: 17px;
 }
@@ -92,6 +92,7 @@ h2 {
 .container-80 {
 	margin: 16px 10%;
 }
+
 .container-90 {
 	margin: 16px 5%;
 }
@@ -100,6 +101,7 @@ h2 img {
 	width: 40px;
 	margin: 0 8px;
 }
+
 .features-cards {
 	display: flex;
 }
@@ -137,9 +139,10 @@ h3 {
 .feature p {
 	width: 550px;
 }
+
 .button-1 {
- margin-top: -25px;
- margin-right: -16px;
+	margin-top: -25px;
+	margin-right: -16px;
 }
 
 .feature span {
@@ -147,27 +150,27 @@ h3 {
 	border-radius: 5px;
 	border: 1px solid;
 	font-size: 14px;
-    font-weight: 380;
+	font-weight: 380;
 }
 
 .span-blue {
-    background-color: #bbe5f5;
-    color:#0b79af;
+	background-color: #bbe5f5;
+	color: #0b79af;
 }
 
 .span-orange {
-    background-color: #fcd3ca;
-    color:#b46089;
+	background-color: #fcd3ca;
+	color: #b46089;
 }
 
 .span-purple {
-    background-color: #f6d6e5;
-    color:#af5883;
+	background-color: #f6d6e5;
+	color: #af5883;
 }
 
 .span-green {
-    background-color:#d2e9d7;
-    color:#00a05e;
+	background-color: #d2e9d7;
+	color: #00a05e;
 }
 
 .span-shadow {
@@ -202,32 +205,39 @@ br {
 		line-height: 95%;
 		ss
 	}
+
 	.feature p {
 		width: revert;
 	}
+
 	.container-80 {
-	margin: 16px 8px;
-}
+		margin: 16px 8px;
+	}
+
 	h2 {
-	font-size: 32px;
-	font-weight: 380;
-	margin: 64px 8px;
-	max-width: 330px;
-}
+		font-size: 32px;
+		font-weight: 380;
+		margin: 64px 8px;
+		max-width: 330px;
+	}
+
 	h2 img {
-	width: 28px;
-	margin: 0 8px;
-}
+		width: 28px;
+		margin: 0 8px;
+	}
+
 	br {
 		display: block;
 	}
-	.features-cards {
-	 flex-direction: column;
-	 gap: 48px;
-	 margin: 0 8px;
-	 margin-bottom: 64px;
 
-}
+	.features-cards {
+		flex-direction: column;
+		gap: 48px;
+		margin: 0 8px;
+		margin-bottom: 64px;
+
+	}
+
 	h3 {
 		margin-bottom: 4px;
 	}
