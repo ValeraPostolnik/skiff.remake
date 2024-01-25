@@ -169,14 +169,17 @@ h3 {
     background-color:#d2e9d7;
     color:#00a05e;
 }
+
 .span-shadow {
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 0px 0px inset, rgba(0, 0, 0, 0.1) 0px -1px 0px 1px inset;
 }
+
 .feature-top {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
+
 .feature-double {
 	display: flex;
 	justify-content: space-evenly;
@@ -186,6 +189,7 @@ h3 {
 br {
 	display: none;
 }
+
 .feature h3 {
 	margin: 8px 0;
 }
