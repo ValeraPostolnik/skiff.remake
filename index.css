@@ -197,6 +197,27 @@ br {
 	margin: 8px 0;
 }
 
+.site-map {
+	display: flex;
+	gap: 8px;
+}
+
+.site-map ul {
+	width: 160px;
+	list-style-type: none;
+
+}
+
+.community-img-container img  {
+	width: 56px;
+}
+
+.community-img-container {
+	background-color: #303030;
+	padding: 8px;
+	border-radius: 16px;
+}
+
 
 @media (max-width: 700px) {
 	h1 {
