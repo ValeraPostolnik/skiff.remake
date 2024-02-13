@@ -77,13 +77,11 @@ h1 {
 	margin-bottom: 46px;
 }
 
-
 h2 {
 	font-size: 48px;
 	margin: 64px 0;
 	font-weight: 300;
 	max-width: 1140px;
-
 }
 
 .container-80 {
@@ -184,8 +182,6 @@ h3 {
 	justify-content: space-between;
 	border: none;
 	gap: 20px;
-
-
 }
 
 .feature-double .feature {
@@ -209,10 +205,9 @@ br {
 .site-map ul {
 	width: 160px;
 	list-style-type: none;
-
 }
 
-.community-img-container img  {
+.community-img-container img {
 	width: 56px;
 }
 
@@ -222,9 +217,7 @@ br {
 	border-radius: 16px;
 	width: fit-content;
 	margin: 0 auto;
-
 }
-
 
 @media (max-width: 700px) {
 	h1 {
@@ -262,7 +255,6 @@ br {
 		gap: 48px;
 		margin: 0 8px;
 		margin-bottom: 64px;
-
 	}
 
 	h3 {
@@ -280,5 +272,4 @@ br {
 	.feature-double .feature {
 		width: auto;
 	}
-
 }
