@@ -110,6 +110,7 @@ h3 {
 	border-radius: 16px;
 	background-color: #fafaf9;
 	padding: 24px;
+	margin: 20px 0;
 }
 
 .feature:hover {
@@ -186,7 +187,7 @@ h3 {
 
 .feature-double .feature {
 	width: 100%;
-	margin: 20px 0;
+	margin: 0;
 }
 
 br {
