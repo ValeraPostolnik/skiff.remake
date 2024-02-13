@@ -278,7 +278,6 @@ br {
 	}
 
 	.feature-double {
-		display: flex;
 		flex-direction: column;
 	}
 
